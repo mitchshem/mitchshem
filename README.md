@@ -1,6 +1,6 @@
-# Hi, I'm Mitchell Shemtov
+# Hi! I'm Mitchell Shemtov :)
 
-Full-stack developer building practical tools with **TypeScript**, **React**, **Python**, and **Next.js**. I'm drawn to projects at the intersection of software engineering and finance — from AI-powered trading systems to smart credit card optimization.
+Teaching myself how to get _good_ at vibe coding. Trying to tell AI to build you something is great; but growing optimal when it comes to productivity and token-usage is my current objective. Successful start-ups (plural) may hopefullly arise as a side bonus of this endeavor. What a time to be alive! To experience the exponential nature of this technological, endless Manifest Destiny.
 
 ## What I'm Building
 
