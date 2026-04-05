@@ -1,10 +1,10 @@
 # Hi, I'm Mitch.
 
-Teaching myself how to get _good_ at vibe coding. Trying to tell AI to build you something is great; but growing optimal when it comes to productivity and token-usage is my current objective. Successful start-ups (plural) may hopefullly arise as a side bonus of this endeavor. What a time to be alive! To experience the exponential nature of this technological, endless Manifest Destiny.
+Teaching myself how to get _good_ at vibe coding and using AI in my free time. Optimizing context-window and token usage is key! Successful start-ups (plural) may hopefullly arise as a side bonus of this endeavor. What a time to be alive! To experience the exponential nature of this technological, endless Manifest Destiny.
 
 ## What I'm Building
 
-**[Credit Card Recommender](https://github.com/mitchshem/credit-card-recommender)** — React + Node.js app that helps you pick the best card from your wallet for any purchase. Uses merchant category matching to maximize your cashback and rewards. Built with TypeScript, Firebase, and OAuth authentication.
+**[Card Compass](https://github.com/mitchshem/card-compass)** — React + Node.js app that helps you pick the best card from your wallet for any purchase. Uses merchant category matching to maximize your cashback and rewards. Built with TypeScript, Firebase, and OAuth authentication.
 
 **[Paper Trading System](https://github.com/mitchshem/trading)** — AI-driven market trend analysis with EMA/ATR indicators and automated signal generation. Python FastAPI backend with a Next.js frontend that mirrors core TradingView functionality.
 
