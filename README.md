@@ -6,7 +6,7 @@ Teaching myself to build with AI tools and improve rapidly through iteration. Fo
 
 **[Card Compass](https://github.com/mitchshem/card-compass)** — React + Node.js app that helps you pick the best card from your wallet for any purchase. Uses merchant category matching to maximize your cashback and rewards. Built with TypeScript, Firebase, and OAuth authentication.
 
-**[Paper Trading System](https://github.com/mitchshem/trading)** — AI-driven market trend analysis with EMA/ATR indicators and automated signal generation. Python FastAPI backend with a Next.js frontend that mirrors core TradingView functionality.
+**[Crypto Trading Bot](https://github.com/mitchshem/crypto-autotrader)** — AI-driven market trend analysis with EMA/ATR indicators and automated signal generation. Python FastAPI backend with a Next.js frontend that mirrors core TradingView functionality.
 
 **[Recipe Generator](https://github.com/mitchshem/recipe-generator)** — Analyzes what's in your pantry and what appliances you have, then generates recipes you can actually make right now. Live at [recipe-generator-ruddy-five.vercel.app](https://recipe-generator-ruddy-five.vercel.app). Built with React, TypeScript, and Vite.
 
