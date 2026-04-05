@@ -1,6 +1,6 @@
 # Hi, I'm Mitch.
 
-Teaching myself how to get _good_ at vibe coding and using AI in my free time. Optimizing context-window and token usage is key! Successful start-ups (plural) may hopefullly arise as a side bonus of this endeavor. What a time to be alive! To experience the exponential nature of this technological, endless Manifest Destiny.
+Teaching myself to build with AI tools and improve rapidly through iteration. Focused on efficient context usage, prompt design, and turning ideas into working products. Exploring opportunities to turn projects into scalable ventures.
 
 ## What I'm Building
 
