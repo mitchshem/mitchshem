@@ -1,6 +1,6 @@
 # Hi, I'm Mitch.
 
-Teaching myself to build with AI tools and improve rapidly through iteration. Focused on efficient context usage, prompt design, and turning ideas into working products. Exploring opportunities to turn projects into scalable ventures.
+Teaching myself to build with AI tools in my free time and improve rapidly through iteration. Focused on efficient context usage, prompt design, and turning ideas into working products. Exploring opportunities to turn projects into scalable ventures.
 
 ## What I'm Building
 
